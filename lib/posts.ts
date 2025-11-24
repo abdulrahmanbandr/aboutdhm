@@ -12,13 +12,13 @@ export const posts: Post[] = [
         title: 'Senior year',
         date: '2025-01-12',
         summary: 'This is my first blog post.',
-        content: 'Welcome to my new blog! This is a sample post to test the system.',
+        content: 'stay tuned ! ',
     },
     {
-        slug: 'minimalism',
-        title: 'On Minimalism',
-        date: '2023-10-27',
+        slug: 'Littile-thoughts-matter',
+        title: 'Little thoughts matter',
+        date: '2025-01-12',
         summary: 'Why I chose a minimal design.',
-        content: 'Minimalism focuses on the content. That is why this blog looks the way it does.',
+        content: 'stay tuned !',
     },
 ];
