@@ -11,20 +11,13 @@ export default function AboutPage() {
             <div className="hero">
                 <h1>About Me</h1>
                 <p>
-                    Hi, I'm Abdulrahman (DHM). I'm a software engineer passionate about building clean, efficient, and user-centric applications.
+                    Hi! I'm Abdulrahman. The strongest thing that drives me in life is fear—not the kind that makes you weak, but the kind that wakes you up, pushes you forward, and reminds you that success doesn't come to someone who's comfortable. I'm afraid of wasting time, and I'm afraid of passing by opportunities without grabbing them. Maybe that's why I'm attached to ideas—not because they're ideas, but because they're possibilities and open doors for ambition.
                 </p>
                 <p>
-                    I believe in the power of minimalism—stripping away the unnecessary to focus on what truly matters. This philosophy reflects in my code, my designs, and my lifestyle.
-                </p>
-            </div>
-
-            <div className="journey">
-                <h2>My Journey</h2>
-                <p>
-                    My journey into tech started with a curiosity about how things work. Over the years, I've honed my skills in full-stack development, exploring various technologies and frameworks.
+                    I've always been the kind of person who needs things to make sense. I feel at ease when the full picture becomes clear. And even though I'm calm, I'm social and I enjoy people, and I believe no one can live alone. Life feels simpler to me when I break down complicated things, and I always find that understanding is there once you remove the extra layers.
                 </p>
                 <p>
-                    Currently, I'm focused on Next.js and the React ecosystem, constantly learning and experimenting with new ideas.
+                    I learn by observing first, then jumping in, messing up, and trying again until it clicks. I like working in a way that keeps me aware and present, whether I'm on my own or with people who think on the same frequency. Technology to me isn't just a field—it's a way of thinking, a mindset that builds, connects, and creates experiences you can feel. And maybe the most important thing to me is that a person stays balanced—being human means having strong days and ordinary ones, winning and stumbling, rising and resting, without losing yourself.
                 </p>
             </div>
         </section>

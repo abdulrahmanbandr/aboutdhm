@@ -48,6 +48,23 @@ ul {
   list-style: none;
 }
 
+/* Global Header (appears on all pages) */
+.global-header {
+  margin-bottom: 2.5rem;
+}
+
+.site-name {
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  transition: opacity 0.2s ease;
+}
+
+.site-name:hover {
+  opacity: 0.8;
+}
+
 /* Homepage Navigation */
 .home-nav {
   display: flex;
