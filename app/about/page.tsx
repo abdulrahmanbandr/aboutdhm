@@ -11,7 +11,7 @@ export default function AboutPage() {
             <div className="hero">
                 <h1>About Me</h1>
                 <p>
-                    Hi! I'm Abdulrahman, and you might know me somewhere... but I’ve always seen myself as someone who moves through life with awareness rather than rush. Fear plays a part in that—not the kind that limits you, but the kind that reminds you time matters, chances don’t repeat themselves, and comfort rarely leads anywhere worth reaching. That’s probably why ideas stay with me, not because they’re ideas, but because they carry potential and a sense of possibility.
+                    Hi! I'm Abdulrahman, and I’ve always seen myself as someone who moves through life with awareness rather than rush. Fear plays a part in that—not the kind that limits you, but the kind that reminds you time matters, chances don’t repeat themselves, and comfort rarely leads anywhere worth reaching. That’s probably why ideas stay with me, not because they’re ideas, but because they carry potential and a sense of possibility.
                 </p>
                 <p>
                     I've always been the kind of person who needs things to make sense. I feel at ease when the full picture becomes clear. And even though I'm calm, I'm social and I enjoy people, and I believe no one can live alone. Life feels simpler to me when I break down complicated things, and I always find that understanding is there once you remove the extra layers.
